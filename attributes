@@ -1,4 +1,7 @@
-# goodn1ght
+# Auto detect text files and perform LF normalization
+* text=auto
+goodn1ght
 $ curl -X POST http://my_textbelt_server/text \
    -d number=5551234567 \
    -d "mmn goodnight"
+   
